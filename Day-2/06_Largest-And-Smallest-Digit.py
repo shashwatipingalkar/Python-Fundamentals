@@ -1,0 +1,6 @@
+n =  int(input("ENter the number:"))
+num_str = str(abs(n))
+largest = int(max(num_str))
+smallest = int(min(num_str))
+print(largest)
+print(smallest)
